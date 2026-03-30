@@ -40,10 +40,10 @@ pip install numpy matplotlib scikit-learn
 
 - **Clone the repository**
   ```bash
-  git clone https://github.com/b-nikhileswar-redd/model-evaluation-metrics.git
-  cd model-evaluation-metrics
+  git clone https://github.com/b-nikhileswar-redd/Supervised-Model-Evaluation-Metrics.git
+  cd Supervised-Model-Evaluation-Metrics
   ```
 - **Run the Script**
   ```bash
-  jupyter notebook supervised_model_evaluation_metrics.ipynb
+  jupyter notebook Supervised_model_evaluation_metrics.ipynb
   ```
