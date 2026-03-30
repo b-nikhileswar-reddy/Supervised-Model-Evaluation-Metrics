@@ -29,6 +29,7 @@ This project highlights:
 - Python 3.8+
 - numpy
 - matplotlib
+- seaborn
 - scikit-learn
 
 Install dependencies:
