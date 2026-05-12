@@ -41,7 +41,7 @@ pip install numpy matplotlib scikit-learn
 
 - **Clone the repository**
   ```bash
-  git clone https://github.com/b-nikhileswar-redd/Supervised-Model-Evaluation-Metrics.git
+  git clone https://github.com/b-nikhileswar-reddy/Supervised-Model-Evaluation-Metrics.git
   cd Supervised-Model-Evaluation-Metrics
   ```
 - **Run the Script**
